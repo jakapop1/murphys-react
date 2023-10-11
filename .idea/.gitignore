@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignore node_modules
+node_modules/
+
+# Ignore IntelliJ IDEA related files
+*.iml
+.idea/
